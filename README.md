@@ -1,5 +1,5 @@
 # Introduction
-This is a resource bank (or a guidance document) for those who want to start/advance in the field of Artificial Intelligence for the purpose of participating in Inter IIT Tech Meet.
+This is a resource bank (or a guidance document) for those who want to start/advance in the field of Artificial Intelligence for the purpose of participating in Tech Hackathons and solving Problem Statements.
 
 It is observed that, each year its almost certain that at least one PS comes from this vast field of AI. We have tried to compile most of the resource you will need to work with such problem statements, but due to the vastness of this field, we cant tag each and every exact topic, so try making out a habit to search on Google Scholar or arxiv about the advancements done in a specific field to get idea about the SOTA (State of the Art) models in such fields.
 
