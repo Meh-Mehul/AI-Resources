@@ -107,6 +107,12 @@ Here are some resources for that:
     
     https://youtube.com/playlist?list=PL22-qG2MGGhAUR4cYXQBmLSCisi-OMUpB&feature=shared
 
+5. Now here are some advanced RAG resources for you guys to handle and learn:
+
+https://github.com/NirDiamant/RAG_Techniques
+
+All the code is also present and you guys can see how things work with different techniques.
+
 # P.S.
 
 If you like reading books and not watching videos and  just want to do ONE Book to get most basics in all fields of AI (yes, even the old heuristic algorithms!), the following book is highly recommended: (Russel and Norvig’s epic book on AI, try the new version if you find that)
